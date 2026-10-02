@@ -221,4 +221,5 @@ plano (como los nombres para las etiquetas de Chart.js). Adicionalmente usamos -
 en el pdf
 
 
-📄 FIN DE LA PLANTILLA
+📄 FIN DE LA PLANTILLA 
+s
